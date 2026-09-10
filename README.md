@@ -237,3 +237,6 @@ This repository serves as the official landing page for WebAllow. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WebAllow today!**
+
+---
+**Last updated:** 2026-09-10 14:01:32 UTC
