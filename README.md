@@ -239,4 +239,4 @@ This repository serves as the official landing page for WebAllow. The software i
 **Get the most recent version of WebAllow today!**
 
 ---
-**Last updated:** 2026-10-03 17:08:34 UTC
+**Last updated:** 2026-10-03 20:31:25 UTC
